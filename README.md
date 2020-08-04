@@ -1,4 +1,4 @@
-# Heavybit's Content & Fact Checking Policy
+# Heavybit's Content Policy
 
 - Heavybit aims to help startups take developer products to market and as such, treats its content as a valuable educational resource. While we reserve the right to manage, publish and unpublish our content at will, we strive to publish content that is factually accurate and useful to our broader community. Here’s how we approach our content: 
 
@@ -10,6 +10,6 @@
 
 - Once published, in the event we are notified of an error, we investigate further sources via those same trusted sources listed above and if it is determined necessary, we revise/retract content promptly to correct any errors. From here, we notify the featured expert of any changes.
 
-- We only unpublish or update content if it’s deemed factually inaccurate or inappropriate. We do not engage in historical revisionism, post-production PR-related omissions or edits, nor do we knowingly edit our content to mislead the audience.
+- We only unpublish or update content if it’s deemed factually inaccurate, inappropriate, or if by association with a speaker or contributor, damages Heavybit’s commitment to an inclusive and participatory culture. We do not engage in historical revisionism, post-production PR-related omissions or edits, nor do we knowingly edit our content to mislead the audience.
 
 If you have further questions about this policy email content@heavybit.com
